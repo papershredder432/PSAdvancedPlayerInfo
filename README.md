@@ -8,3 +8,6 @@ Permission: ps.advancedplayerinfo<br/>
 Usage: /api <playername>
 
 [Download](https://github.com/papershredder432/PSAdvancedPlayerInfo/releases/download/1.0.0/PSAdvancedPlayerInfo.dll)
+
+# Support Discord
+[Join OptiX Development](https://discord.gg/ydjYVJ2)
